@@ -27,7 +27,7 @@ In this project, we leverage CNNs to detect sleep patterns from physiological si
 -  <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/fc484f01-b048-4297-8ec9-a90a3cfe8b6e " width="500" higth="250">
 -  <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/715fd926-dd78-41d8-8121-52a923b1b53d" width="500" higth="250">
 - **Results:** Demonstrates effective data handling and modeling techniques with promising outcomes.
-- <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/ede37802-c18a-4587-a22e-3a9d5218b91a" width="750" height="250">
+- <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/ede37802-c18a-4587-a22e-3a9d5218b91a" width="1500" height="250">
 
 ## How to Use
 
