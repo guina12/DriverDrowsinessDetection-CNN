@@ -2,10 +2,9 @@
 
 # ![image](https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/ed954a4f-7b7f-49a5-b847-80394021b314)
 
-- <img src="https://miro.medium.com/max/1086/1*fGF6Na0_Y8_mboYNNysI2A.gif">
-
-
 Welcome to  AI project focused on sleep detection using Convolutional Neural Networks (CNNs). This project integrates advanced data science techniques and software engineering to achieve accurate and efficient results.
+
+- <img src="https://miro.medium.com/max/1086/1*fGF6Na0_Y8_mboYNNysI2A.gif">
 
 ## Overview
 
