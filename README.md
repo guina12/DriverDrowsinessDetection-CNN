@@ -12,7 +12,7 @@ In this project, we leverage CNNs to detect sleep patterns from physiological si
 ## Features
 
 - **Data Structure:** Utilizes stack-based image management and object-oriented programming for modular code.
-- <img src="https://s3.amazonaws.com/stackabuse/media/linked-list-programming-interview-questions-1.gif" width="400">
+- <img src="https://s3.amazonaws.com/stackabuse/media/linked-list-programming-interview-questions-1.gif" width="500" hitgh="250">
 
 - **Database:** Relational database integration for efficient data organization and processing pipelines.
 - <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/7f94c755-7294-4d37-84c4-c114b5b7031d" width="400">
