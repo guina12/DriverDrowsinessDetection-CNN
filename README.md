@@ -12,7 +12,8 @@ In this project, we leverage CNNs to detect sleep patterns from physiological si
 ## Features
 
 - **Data Structure:** Utilizes stack-based image management and object-oriented programming for modular code.
-- ![Alt Text](https://s3.amazonaws.com/stackabuse/media/linked-list-programming-interview-questions-1.gif,width="400")
+- <img src="relative_path_to_your_gif.gif" width="400">
+
 
 - **Database:** Relational database integration for efficient data organization and processing pipelines.
 - **DataFrame and Pipelines:** Efficient data manipulation with DataFrames and preprocessing pipelines.
