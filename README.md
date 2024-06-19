@@ -20,8 +20,7 @@ In this project, we leverage CNNs to detect sleep patterns from physiological si
 - **DataFrame and Pipelines:** Efficient data manipulation with DataFrames and preprocessing pipelines.
 - **CNN Modeling:** Trains CNNs, including advanced architectures like ResNet, for precise sleep stage identification.
 -  <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/d542b11e-4d48-4b8f-a17a-441f00f565a2" width="600" hitgh="250">
--  <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/3045f9c2-53a3-4490-afee-d2b749580599 
-" width="600" higth="250">
+-  <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/3045f9c2-53a3-4490-afee-d2b749580599 " width="600" higth="250">
 - **Accident Prevention:** Practical application in road safety by detecting driver drowsiness and preventing accidents.
 - **Project Architecture:** Modular and scalable architecture for easy maintenance and expansion.
 - **Results:** Demonstrates effective data handling and modeling techniques with promising outcomes.
