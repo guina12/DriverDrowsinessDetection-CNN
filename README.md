@@ -1,5 +1,8 @@
 # AI Project: Sleep Detection with Convolutional Neural Networks (CNNs)
 
+# ![image](https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/ed954a4f-7b7f-49a5-b847-80394021b314)
+
+
 Welcome to our AI project focused on sleep detection using Convolutional Neural Networks (CNNs). This project integrates advanced data science techniques and software engineering to achieve accurate and efficient results.
 
 ## Overview
@@ -9,9 +12,7 @@ In this project, we leverage CNNs to detect sleep patterns from physiological si
 ## Features
 
 - **Data Structure:** Utilizes stack-based image management and object-oriented programming for modular code.
-- from IPython.display import display, Image
-  gif_url = "https://s3.amazonaws.com/stackabuse/media/linked-list-programming-interview-questions-1.gif"
-  display(Image(url=gif_url, width=600, height=250))
+- ![Alt Text](https://s3.amazonaws.com/stackabuse/media/linked-list-programming-interview-questions-1.gif)
 
 - **Database:** Relational database integration for efficient data organization and processing pipelines.
 - **DataFrame and Pipelines:** Efficient data manipulation with DataFrames and preprocessing pipelines.
