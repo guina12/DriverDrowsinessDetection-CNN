@@ -15,7 +15,7 @@ In this project, we leverage CNNs to detect sleep patterns from physiological si
 - <img src="https://s3.amazonaws.com/stackabuse/media/linked-list-programming-interview-questions-1.gif" width="400">
 
 - **Database:** Relational database integration for efficient data organization and processing pipelines.
-- ![image](https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/7f94c755-7294-4d37-84c4-c114b5b7031d)
+- <img src="https://github.com/guina12/DriverDrowsinessDetection-CNN/assets/115325442/7f94c755-7294-4d37-84c4-c114b5b7031d" width="400">
 
 - **DataFrame and Pipelines:** Efficient data manipulation with DataFrames and preprocessing pipelines.
 - **CNN Modeling:** Trains CNNs, including advanced architectures like ResNet, for precise sleep stage identification.
